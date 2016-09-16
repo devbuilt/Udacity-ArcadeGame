@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color:black;
+}
+
+canvas {
+	display: block;
+	margin: 0 auto;
+}
+
+h1 {
+	font-family: 'Lobster', cursive;
+	color:red;
+
+}
+
+div {
+	font-size:18px;
+	font-family: 'Anton', sans-serif;
+	color: red;
+}
